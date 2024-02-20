@@ -1,0 +1,72 @@
+1- Privacy Policy:
+
+  Aşk Rotası apps built the Aşk Rotası Sevgili Bul app as a Freemium app. This SERVICE is provided by Aşk Rotası apps at no cost and is intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+
+  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+  
+  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Aşk Rotası Sevgili Bul unless otherwise defined in this Privacy Policy.
+
+
+2- Information Collection and Use:
+
+  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+  
+  The app does use third party services that may collect information used to identify you.
+  
+  Link to privacy policy of third party service providers used by the app:
+    - Google Play Services
+    - Google Analytics for Firebase
+    - Firebase Crashlytics
+    - Firebase Messaging
+
+
+3- Log Data
+  I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+
+4- Cookies
+  Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+
+5- Service Providers
+  I may employ third-party companies and individuals due to the following reasons:
+    - To facilitate our Service;
+    - To provide the Service on our behalf;
+    - To perform Service-related services; or
+    - To assist us in analyzing how our Service is used.
+    - I want to inform users of this Service that these third parties have access to your Personal Information. 
+    
+  The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+
+6- Security
+  I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+
+7- Links to Other Sites
+  This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+
+8- Rights and obligations of Aşk Rotası
+  Aşk Rotası reserves the right to modify the services and content provided on the website at any time; it also reserves the right to restrict access and delete the profiles, information, and content of members, including third-party access, which do not comply with the terms stipulated in this Agreement. Aşk Rotası may exercise this right without any prior notification or time limit. Members are required to promptly fulfill any changes and/or corrections requested by Aşk Rotası. If deemed necessary, Aşk Rotası itself may make the requested changes and/or corrections. Any damages, legal or penal liabilities arising from the failure of members to timely fulfill Aşk Rotası's requests for changes and/or corrections are entirely the responsibility of the members themselves.
+Aşk Rotası assumes no responsibility for portals, websites, files, and content accessed through links (link, banner) on the site or for services or products offered on these linked portals or websites, or their content. Aşk Rotası reserves the right to remove messages and content that are contrary to the functioning of the site, general rules, or general moral standards, and may terminate the membership of a user who enters such messages or content without any notice. The member is obligated to indemnify Aşk Rotası for any damages it may incur due to the upload of immoral or illegal content.
+Technical issues such as errors, negligence, interruptions, deletions, corruption, transmission delays, or communication network failures, whether or not originating from the site, may result in interruptions in communication between the Site and Members or among Members themselves. Aşk Rotası cannot be held responsible for any problems experienced by the Member due to such interruptions. Aşk Rotası does not bear any responsibility for refunds related to Gold Membership and "credit" sales made through application download and purchase platforms such as iTunes Store, Google Play, and Windows App Store. These refund transactions are unrelated to the Site, and any issues or problems with refund transactions are not the responsibility of the Site.
+Similarly, Aşk Rotası is not responsible for any material, spiritual, indirect, or direct damages incurred by third parties due to services, applications, or any content related to these services and applications. In case of damages resulting from the cancellation or delays in canceling Gold Membership or credit purchases, the counterpart for the transaction is the platforms mentioned above, where the shopping transaction is carried out. Aşk Rotası cannot be held responsible for any disputes arising from these matters.
+Any form of visual, written, photographic, and other materials published on the Site and present in Member profiles cannot be published on other internet sites, conventional media such as newspapers, television, radio, or magazines without the permission of Aşk Rotası. All content on the Site, as well as content with the character of a work, is protected by Article 4, Section 7 of the Law on Intellectual and Artistic Works, which covers 'databases created by selecting and compiling data and materials according to a specific purpose and a specific plan, resulting in a readable or other format database,' and is subject to legal protection.
+On this application, all kinds of images, texts, photographs, account information and other materials requested from the user or uploaded to the system in line with the user's own initiative are securely saved in databases or on the server via https://gateway.askrotasi.okiyy.com. This process has been carried out over the https protocol and has been added to the secure domains section of the mobile application.
+
+
+9- Children’s Privacy
+  These Services do not address anyone under the age of 18. I do not knowingly collect personally identifiable information from children under 18 years of age. In the case I discover that a child under 18 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+
+10- Changes to This Privacy Policy
+  I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+This policy is effective as of 2024-02-19
+
+
+11- Contact Us
+  If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at destek@okiyy.com.tr
+
