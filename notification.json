@@ -1,0 +1,32 @@
+{
+  "isPremium": false,
+  "notification": [
+    {
+      "id": "65c90fcf4fb9bd00487217f9",
+      "name": "Ahmet Enes",
+      "profileImage": "https://i.ibb.co/dfS73TD/360-F-65772719-A1-UV5k-Li5n-CEWI0-BNLLi-Fa-BPEk-Ubv5-Fv-2.jpg",
+      "data": [
+        "https://i.ibb.co/4PzysWf/Ekran-Resmi-2024-02-19-11-38-32.png"
+      ],
+    },
+    {
+      "id": "65c9103fdc6e653f052b947d",
+      "name": "Ahmet Enes",
+      "profileImage": "https://www.eniyisor.com/wp-content/uploads/fake-kiz-resimlerim.jpg",
+      "data": [
+        "https://www.eniyisor.com/wp-content/uploads/fake-kiz-icin-oneriler.jpg",
+        "https://www.eniyisor.com/wp-content/uploads/fake-kizlar.jpg"
+      ],
+    },
+    {
+      "id": "65c910b3dc6e653f052b9485",
+      "name": "okmlkmljkkljn",
+      "profileImage": "https://www.eniyisor.com/wp-content/uploads/sosyal-medya-kiz-fotograflari-3.jpg",
+      "data": [
+        "https://www.eniyisor.com/wp-content/uploads/sosyal-medya-kiz-fotograflari-2.jpg",
+        "https://www.eniyisor.com/wp-content/uploads/sosyal-medya-kiz-fotograflari-6.jpg",
+        "https://www.eniyisor.com/wp-content/uploads/sosyal-medya-kiz-fotograflari-7.jpg"
+      ],
+    }
+  ]
+}
